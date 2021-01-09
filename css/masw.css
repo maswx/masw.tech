@@ -89,11 +89,11 @@ body {
 }
 
 .meBox:hover .meBox-title p {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
 
 .meBox-title .fg {
-    width: 100%;
+    width: 80%;
     height: 2px;
     background-image: linear-gradient(to left, #3498db, #2980b9);
     margin: 5% 0 0 10%;
